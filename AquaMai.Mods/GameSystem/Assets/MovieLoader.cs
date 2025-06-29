@@ -3,7 +3,7 @@ using System.IO;
 using AquaMai.Config.Attributes;
 using AquaMai.Core.Attributes;
 using AquaMai.Core.Helpers;
-using CriMana;
+using CriWare.CriMana;
 using HarmonyLib;
 using MAI2.Util;
 using Manager;
