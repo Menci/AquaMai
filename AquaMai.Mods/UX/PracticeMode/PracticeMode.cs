@@ -16,6 +16,7 @@ using Process;
 using UnityEngine;
 using AquaMai.Config.Attributes;
 using AquaMai.Config.Types;
+using CriWare;
 
 namespace AquaMai.Mods.UX.PracticeMode;
 
